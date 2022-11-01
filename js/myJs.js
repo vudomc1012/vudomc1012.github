@@ -5,12 +5,12 @@ const textConfig = {
   text4: "Thử không đồng ý xem =))) ",
   text5: "Giới trẻ",
   text6: "Đi luôn =))) ",
-  text7: "Vì con ây ai này vjp pro nên hãy gõ 'Hiền đáng iu' :>",
+  text7: "Đây là thông điệp từ dzũ trụ gửi tới Hìn chúiii :>",
   text8: "Gửi liền cho Vũ",
-  text9: "Em xứng đáng với những điều tốt đẹp nhất <3 ",
+  text9: "Iêm xứng đáng với những điều tốt đẹp nhất <3 ",
   text10: "Mê Hìn chúiii nhất trên đờiiii",
   text11:
-    "Xong chúng mình sẽ đi sộp pink và hít hà hoa sứaaa =))) Còn chần chừ gì nữa mà không in bóc ngay cho t nào =)))",
+    "Xong chúng mình sẽ đi sộp pink và hít hà hoa sữaaa. Còn chần chừ gì nữa, mau đón nhận thông địp từ dzũ trụ đii =)))",
   text12: "Okii lunn <3",
 };
 

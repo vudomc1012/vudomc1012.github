@@ -8,7 +8,7 @@ const textConfig = {
   text7: "Đây là thông điệp từ dzũ trụ gửi tới Hìn chúiii :>",
   text8: "Gửi liền cho Vũ",
   text9: "Iêm xứng đáng với những điều tốt đẹp nhất <3 ",
-  text10: "Mê Hìn chúiii nhất trên đờiiii",
+  text10: "Iuuuu Hìn chúiii nhất trên đờiiii !!",
   text11:
     "Xong chúng mình sẽ đi sộp pink và hít hà hoa sữaaa. Còn chần chừ gì nữa, mau đón nhận thông địp từ dzũ trụ đii =)))",
   text12: "Okii lunn <3",

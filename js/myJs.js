@@ -1,17 +1,17 @@
 const textConfig = {
   text1: "Hế hế luu, chao xìn chao xìn Lê Thanh Hiền xinh đẹp tuyệt vờiiiii UwU",
-  text2: "DAV có điều này muốn hỏiiii, nhớ phải trả lời thật lòng nhé :>",
-  text3: "Tuấn cùi này tụi mình ăn bún r iêu và đi làm mình làm mẩy điiii",
-  text4: "Thử không đồng ý xem =))) ",
+  text2: "Sau bài Mini test từ Lê Thanh Hiền thì Vũ cũng có 1 bài tương tự nhé :>",
+  text3: "Tuấn cùi này Lê Thanh Hiền sẽ chọn ăn gì để lấp đầy cái bụng đói nào 😻",
+  text4: "Thử không đồng ý xem 😒 ",
   text5: "Giới trẻ",
-  text6: "Đi luôn =))) ",
+  text6: "Cóaaaaaヾ(≧ ▽ ≦)ゝ ",
   text7: "Đây là thông điệp từ dzũ trụ gửi tới Hìn chúiii :>",
-  text8: "Gửi liền cho Vũ",
-  text9: "Iêm xứng đáng với những điều tốt đẹp nhất <3 ",
+  text8: "Gõ nhiều vào rồi ấn dzô đây =)))))",
+  text9: "Thích Hiền là điều đúng đắn và tuyệt vời nhất với Vũ",
   text10: "Iuuuu Hìn chúiii nhất trên đờiiii !!",
   text11:
-    "Xong chúng mình sẽ đi sộp pink và hít hà hoa sữaaa. Còn chần chừ gì nữa, mau đón nhận thông địp từ dzũ trụ đii =)))",
-  text12: "Okii lunn <3",
+    "Chúng mình sẽ đi triển lãm và hít hà hoa sữaaa. Còn chần chừ gì nữa, mau đón nhận thông địp từ dzũ trụ đii",
+  text12: "Okii lunn ♓",
 };
 
 $(document).ready(function () {

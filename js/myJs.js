@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Thích Hiền là điều đúng đắn và tuyệt vời nhất với Vũ",
   text10: "Iuuuu Hìn chúiii nhất trên đờiiii !!",
   text11:
-    "Chúng mình sẽ đi triển lãm và hít hà hoa sữaaa. Còn chần chừ gì nữa, mau đón nhận thông địp từ dzũ trụ đii",
+    "Chúng mình sẽ đi xem triển lãm và hít hà hoa sữaaa. Còn chần chừ gì nữa, mau đón nhận thông địp từ dzũ trụ đii",
   text12: "Okii lunn ♓",
 };
 
